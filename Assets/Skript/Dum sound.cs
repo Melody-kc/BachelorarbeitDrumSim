@@ -4,15 +4,26 @@ using UnityEngine;
 
 public class Dumsound : MonoBehaviour
 {
-    // Start is called before the first frame update
+    private AudioSource audioSource;
+
     void Start()
     {
-        
+        audioSource = GetComponent<AudioSource>();
     }
 
-    // Update is called once per frame
-    void Update()
+    void OnTriggerEnter(Collider other)
     {
-        
+        // Nur reagieren, wenn ein Drumstick das Fell berührt
+        if (other.CompareTag("Drumstick"))
+        {
+            // Optional: Lautstärke abhängig von Geschwindigkeit des Sticks
+            Rigidbody rb = other.attachedRigidbody;
+            float volume = 1f;
+
+            if (rb != null)
+                volume = Mathf.Clamp01(rb.velocity.magnitude / 5f);
+
+            audioSource.PlayOneShot(audioSource.clip, volume);
+        }
     }
 }
