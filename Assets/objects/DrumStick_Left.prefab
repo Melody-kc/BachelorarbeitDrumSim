@@ -12,10 +12,11 @@ GameObject:
   - component: {fileID: 5648131490332497759}
   - component: {fileID: 3768866260496466366}
   - component: {fileID: 1866820860179560035}
+  - component: {fileID: 5959669211277261170}
   - component: {fileID: 6640916007321961693}
   m_Layer: 0
   m_Name: DrumStick_Left
-  m_TagString: Untagged
+  m_TagString: Drumsticks
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -100,7 +101,7 @@ CapsuleCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -108,6 +109,18 @@ CapsuleCollider:
   m_Height: 0.01
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0.4}
+--- !u!114 &5959669211277261170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 809353372783358280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 794e8511698e7f043b71de604e18d7c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!54 &6640916007321961693
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -131,7 +144,7 @@ Rigidbody:
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
   m_UseGravity: 0
-  m_IsKinematic: 1
+  m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0

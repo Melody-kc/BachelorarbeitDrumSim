@@ -40,7 +40,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-<<<<<<< HEAD
 --- !u!114 &-7684950617862264580
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61,8 +60,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-=======
->>>>>>> fee721a0130723b802f58e70d8ff55a3d1a0b657
 --- !u!114 &-7649488417278858097
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -83,7 +80,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-<<<<<<< HEAD
 --- !u!114 &-6873031982661458156
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -126,8 +122,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-=======
->>>>>>> fee721a0130723b802f58e70d8ff55a3d1a0b657
 --- !u!114 &-6616549835249393789
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -168,7 +162,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-<<<<<<< HEAD
 --- !u!114 &-6329744273175076634
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -189,8 +182,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-=======
->>>>>>> fee721a0130723b802f58e70d8ff55a3d1a0b657
 --- !u!114 &-6306924679831952043
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -244,7 +235,6 @@ MonoBehaviour:
   extensionStrings:
   - XR_KHR_binding_modification
   - XR_EXT_dpad_binding
-<<<<<<< HEAD
 --- !u!114 &-3904852872568141299
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -285,8 +275,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-=======
->>>>>>> fee721a0130723b802f58e70d8ff55a3d1a0b657
 --- !u!114 &-3587436303567647878
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -307,10 +295,7 @@ MonoBehaviour:
   - {fileID: 5977036520738714657}
   - {fileID: 1704508737520832914}
   - {fileID: 8770603081839173295}
-<<<<<<< HEAD
   - {fileID: 1696269869705556328}
-=======
->>>>>>> fee721a0130723b802f58e70d8ff55a3d1a0b657
   - {fileID: -11859900813512603}
   - {fileID: -8044279351050628653}
   - {fileID: 3340384188989951173}
@@ -330,7 +315,6 @@ MonoBehaviour:
   m_spacewarpMotionVectorTextureFormat: 0
   m_optimizeBufferDiscards: 0
   m_symmetricProjection: 0
-<<<<<<< HEAD
 --- !u!114 &-3001223187120870056
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -410,8 +394,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-=======
->>>>>>> fee721a0130723b802f58e70d8ff55a3d1a0b657
 --- !u!114 &-11859900813512603
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -444,7 +426,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0ebc320a151d3408ea1e9fce54d40e, type: 3}
   m_Name: OpenXR Package Settings
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   Keys: 010000000e000000
   Values:
   - {fileID: -3587436303567647878}
@@ -469,11 +450,9 @@ MonoBehaviour:
   company: MASSIVE
   priority: 0
   required: 0
-=======
   Keys: 01000000
   Values:
   - {fileID: -3587436303567647878}
->>>>>>> fee721a0130723b802f58e70d8ff55a3d1a0b657
 --- !u!114 &1704508737520832914
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -576,7 +555,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-<<<<<<< HEAD
 --- !u!114 &4467102173486078442
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -597,8 +575,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-=======
->>>>>>> fee721a0130723b802f58e70d8ff55a3d1a0b657
 --- !u!114 &4745415430690392826
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -640,7 +616,6 @@ MonoBehaviour:
   priority: 0
   required: 0
   ignoreValidationErrors: 0
-<<<<<<< HEAD
 --- !u!114 &5877838327396987322
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -661,8 +636,6 @@ MonoBehaviour:
   company: MASSIVE
   priority: 0
   required: 0
-=======
->>>>>>> fee721a0130723b802f58e70d8ff55a3d1a0b657
 --- !u!114 &5977036520738714657
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -683,7 +656,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-<<<<<<< HEAD
 --- !u!114 &6056462598371070894
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -777,8 +749,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-=======
->>>>>>> fee721a0130723b802f58e70d8ff55a3d1a0b657
 --- !u!114 &7056420772246187795
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -799,7 +769,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-<<<<<<< HEAD
 --- !u!114 &7143327449695153114
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -860,8 +829,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-=======
->>>>>>> fee721a0130723b802f58e70d8ff55a3d1a0b657
 --- !u!114 &8770603081839173295
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -882,7 +849,6 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-<<<<<<< HEAD
 --- !u!114 &9050014114766099856
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -903,5 +869,3 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
-=======
->>>>>>> fee721a0130723b802f58e70d8ff55a3d1a0b657
