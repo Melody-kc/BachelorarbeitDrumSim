@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Skript\Dum sound.cs" />
+    <Compile Include="Assets\VIVE Trackers\HTCViveTrackerProfile.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
